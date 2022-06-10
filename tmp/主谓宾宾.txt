@@ -1,0 +1,38 @@
+前面我们讲了主谓宾结构，格式如下
+动作发起者->动作->动作接收者
+这个句式，有动作发起者，有动作接收者，很符合习惯。
+
+但是有的时候，动作接收者也只是个工具，我真正的目标在别处，比如：
+I made a cake for you
+我 做了 蛋糕   给你
+在这句话中，蛋糕是动作made的接收者。I made a cake就是个标准的主谓宾结构。
+但是这句话的重点不是我做了蛋糕，而是我**"为你"**做了蛋糕。
+
+语法里，我们把动作made的**直接**接收者cake叫做**直接**宾语
+把made醉翁之意不在酒的真正目标，you，叫做**间接**宾语
+
+总结下刚刚的句式：
+动作发起者->动作->动作接收者->动作的目标
+    I       made    a cake     for you
+这个是我们转换过的，容易理解，但是不常用。
+英语的习惯是重要的事情放前面。开门见山直插重点。
+所以我们换成更英语本土化的说法，把真正的目标放前面：
+   主语     谓语   间接宾语    直接宾语
+动作发起者->动作->动作的目标->动作接收者
+    I       made      you      a cake.
+这就是本节要介绍的：
+# 主谓宾宾结构
+
+刚才我们举了2个例句
+I made you a cake.
+I made a cake for you.
+这2句的意思是一样的，并且很多语法书上也会教你怎么将这2句来回转换。
+但是严格意义上来说，只有I made you a cake才是主谓宾宾结构。
+
+关键就在动词make上，make这个动词，支持双宾语用法。
+但不是所有动词都支持双宾语用法，比如announce。
+看下例句：
+The teacher announced the result to students.  (正确)
+The teacher announced students the result.  (错误)
+查字典。
+announce只能用于announce something to somebody, 而不能用于announce somebody something。

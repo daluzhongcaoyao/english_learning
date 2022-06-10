@@ -1,0 +1,61 @@
+这节我们来试着分析长难句。
+来一个长句：
+That the seas are being overfished has been known for years.What researchers such as Lily and Monica have shown is how fast things are changing.
+
+咋样，能一口气翻译出来吗？
+做不到没关系，喝口水，我们先复习下五种简单句：
+主谓：动作发起者->动作
+主谓宾：动作发起者->动作->动作接收者
+主谓宾宾：动作发起者->动作->动作接收者1+动作接收者2
+主谓宾补：动作发起者->动作->动作接收者+动作接收者发生的变化
+主系表：动作发起者->动作->动作发起者的状态
+
+长难句就是由这5种句子组合而成的。
+
+前面内容我们已经反复提到，看句子，先找表示动作的词。
+动作的左边是动作发起者。
+动作的右边是动作接收者。
+
+但是动词很多，而且在不同句子里，有可能不表示动作。
+如果动词不表示动作，你却把他当动作，就掉坑里去了。
+
+别慌，这几种句子中，有个句子比较特殊，就是主系表结构。
+主系表结构特殊就特殊在，他表示动作的词，用的是系动词。
+系动词总共就没几个。
+而更重要的是，系动词就只能是表示动作的词，他不会有其他作用。
+所以系动词的左边，就是动作发起者。
+系动词的右边，就是动作发起者的状态。
+
+那我们开始断句吧。
+首先，一个基本概念是，句号分割的是一个句子。如果是逗号分割，不管他有多长，那都还是一个句子。
+那么这个长句，其实是2句话。
+That the seas are being overfished has been known for years.
+What researchers such as Lily and Monica have shown is how fast things are changing.
+
+先看第一句。
+That the seas are being overfished has been known for years.
+这句话有1个系动词，are，挑出来。
+注意has been不是系动词，是助动词，需要补课的参考系动词。
+
+系动词左边是动作发起者，are的左边那么长一串能作为动作发起者吗？
+That the seas
+好像没问题，很清晰，动作发起者是sea
+系动词右边是动作发起者的状态，所以右边那么长一串应该都是表达sea的状态的。
+看下是什么状态哈：
+being overfished has been known for years.
+就是overfished嘛，所以第一句的意思，就是
+大海被过度捕捞了。
+
+再看第二句。
+What researchers such as Lily and Monica have shown is how fast things are changing.
+巧了，这句也有系动词，is
+系动词左边是动作发起者，is左边那么长一串能作为动作发起者吗？
+What researchers such as Lily and Monica have shown
+不是特别确定，动作发起者是what xxx have shown还是researcher。
+没事先看右边，系动词右边是动作发起者的状态
+how fast things are changing
+事情变化的有多快。
+这个确实是个状态，但是修饰researcher，修饰人，不太对。
+所以这句的动作发起者应该是what xxx have shown，指代的是研究展现的结果。
+那么第二句的意思就是：
+研究展现的是事情变化的有多快。
