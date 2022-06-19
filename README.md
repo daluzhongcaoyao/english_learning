@@ -142,6 +142,28 @@ be going 这是进行时，to tell 这是不定式，这其实就是一种组合
 现在，进行时
 将来，不定式
 
+时间和状态是相互独立的，时间的变化并不影响状态，反之亦然(数学上的术语叫正交)
+
+既然时间和状态是相互独立的，那么我们自然就可以对他们进行排列组合：
+
+*斜体*表示"时"，**黑体**表示"态"
+
+例子中的be和have有些是助动词，是不能变形的。如果我用了is[^is]/has[^has]表示这里可以变形，如果用了be/have表示不能变形。
+[^is]: is可以换成am/is/are，was可以换成was/were
+[^has]: 可以换成has/have
+ 
+| | 过去时间 | 现在时间 | 将来时间 | 过去将来时间 |
+| --- | --- | --- | --- | --- |
+| 不定态 | *was* **to do** | *is* **to do** | *will be* **to do** | *would be* **to do** |
+| 进行态 | *was* **doing** | *is* **doing** | *will be* **doing** | *would be* **doing** |
+| 完成态 | *had* **done** | *has* **done** | *will have* **done** | *would have* **done** |
+| 完成进行态 | *had* **been working** | *has* **been working** | *will have* **been working** | *would have* **been working** |
+| 一般态 | *did* **do** | *does* **do** | *will* **do** | *would* **do** |
+
+我知道你看到这张图就麻了爪了，所以不要去记这玩意儿，理解时间和状态是怎么使用的，自然就能组合出来。
+
+> 吐槽下，这张表里的时态，中学的课本可是一个一个教的啊！而且还不告诉我他们之间有什么联系，我特么6级考完了都没搞懂这些破时态(捂脸)
+
 ### 2.3 语态的特殊应用
 
 虚拟语气
@@ -202,6 +224,3 @@ be going 这是进行时，to tell 这是不定式，这其实就是一种组合
 构词法
 
 介词与动词短语
-
-
-
