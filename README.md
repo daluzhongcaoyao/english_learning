@@ -89,7 +89,9 @@
 
 ### 2.1 状态
 这里的状态指的是在某个时间段内，**"和这个时间点有关"** 的情况。分为有状态和无状态。
-![]([./pictures/动词状态.png](https://github.com/daluzhongcaoyao/english_learning/blob/main/pictures/%E5%8A%A8%E8%AF%8D%E7%8A%B6%E6%80%81.png))
+
+![](https://github.com/daluzhongcaoyao/english_learning/blob/main/pictures/%E5%8A%A8%E8%AF%8D%E7%8A%B6%E6%80%81.png)
+
 
 有状态的情况一共3种：
 
