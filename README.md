@@ -244,13 +244,10 @@ be going 这是进行时，to tell 这是不定式，这其实就是一种组合
 
 我们对比这几个句子：
 
-He is repairing his car，状态是进行，表示正在做。时间是现在，表示当前适用。合起来意思就是他正在花一段时间修车，现在他没空干别的了。
-
-He was reparing his car，状态是进行，表示正在做。时间是过去，表示当前不适用。合起来意思就是他曾经花了一段时间修车，但是现在没在修了。
-
-He has repaired his car，状态是完成，表示做完了。时间是现在，表示当前适用。合起来意思就是他已经把车修好了，现在这辆车是可以用的。
-
-He had repaired his car，状态是完成，表示做完了。时间是过去，表示当前不适用。合起来意思就是他曾经把车修好了，现在这辆车是不是好的我不知道。
+He is repairing his car，状态是进行，表示正在做。时间是现在，表示当前适用。合起来意思就是他正在花一段时间修车，现在他没空干别的了。  
+He was reparing his car，状态是进行，表示正在做。时间是过去，表示当前不适用。合起来意思就是他曾经花了一段时间修车，但是现在没在修了。  
+He has repaired his car，状态是完成，表示做完了。时间是现在，表示当前适用。合起来意思就是他已经把车修好了，现在这辆车是可以用的。  
+He had repaired his car，状态是完成，表示做完了。时间是过去，表示当前不适用。合起来意思就是他曾经把车修好了，现在这辆车是不是好的我不知道。  
 
 可以看出时间和状态是相互独立的，时间的变化并不影响状态，状态的变化也不影响时间(数学上的术语叫正交)
 
@@ -531,17 +528,17 @@ He had repaired his car，状态是完成，表示做完了。时间是过去，
 
 ### 其他参考资料
 
-【书籍】【张满胜】英语语法新思维(初级，中级，高级教程)(群言出版社)
+【知乎】【赛门喵Simon】[如何忘掉汉语，进入真正的英语思维？](https://www.zhihu.com/question/21163865)
+
+【知乎】【邱奶酪】[为什么有些英语老师说语法几个小时就可以讲明白？](https://www.zhihu.com/question/30030877)
 
 【书籍】【旋元佑】英语魔法师之语法俱乐部(九州出版社)
+
+【书籍】【张满胜】英语语法新思维(初级，中级，高级教程)(群言出版社)
 
 【书籍】【Norman Lewis】Word Power Made Easy
 
 【书籍】【Mary Wood Cornog】Merriam-Webster's Vocabulary Builder
-
-【知乎】【赛门喵Simon】[如何忘掉汉语，进入真正的英语思维？](https://www.zhihu.com/question/21163865)
-
-【知乎】【邱奶酪】[为什么有些英语老师说语法几个小时就可以讲明白？](https://www.zhihu.com/question/30030877)
 
 【github】【skywind3000】[ECDICT](https://github.com/skywind3000/ECDICT)
 
