@@ -365,21 +365,21 @@ He had repaired his car，状态是完成，做完了。时间是过去，当前
 
 我们复习下这3种助动词的使用：
 
-普通助动词：He has repaired the car.
+普通助动词：He **has** repaired the car.
 
-被动助动词：The car <u>is</u> repaired by him.
+被动助动词：The car `is` repaired by him.
 
-情态助动词：He must repair the car.
+情态助动词：He *must* repair the car.
 
 怎么样，是不是感觉助动词有点复杂？别急，我这还有个坏消息要告诉你，助动词是可以组合的！
 
-普通助动词+被动助动词：The car has been repaired by him.
+普通助动词+被动助动词：The car **has** `been` repaired by him.
 
-普通助动词+情态助动词：He must have repaired the car.
+普通助动词+情态助动词：He *must* **have** repaired the car.
 
-被动助动词+情态助动词：The car must be repaired by him.
+被动助动词+情态助动词：The car *must* `be` repaired by him.
 
-普通助动词+被动助动词+情态助动词：The car must have been repaired by him.
+普通助动词+被动助动词+情态助动词：The car *must* **have** `been` repaired by him.
 
 懵逼了吧，其实我也很懵逼啊。所以我们还是用学时态的方法，重点记住3种基本类型助动词各自的用法，用到的时候再自己组合。
 
