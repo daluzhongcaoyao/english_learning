@@ -243,7 +243,7 @@ be going 这是进行态，to tell 这是不定态，这其实就是一种组合
 
 状态概念，完成/进行/不定态，强调该动作做完了/正在做/还没做。一般态表示瞬态或常态。
 
-我们对比下面这几个句子，你先自己理解一遍他们的区别，不要纠结句子的时态，主要思考下这些句子想传递什么信息。
+我们对比下面这几个句子，你先自己理解一遍他们的区别，不要纠结句子时态的术语，主要关注下这些句子想传递什么信息。
 
 He is repairing his car.  
 He was repairing his car.  
@@ -358,34 +358,46 @@ He had repaired his car，状态是完成，做完了。时间是过去，当前
 
 前面我们学的都是主动语气，这一节我们学学被动语气。
 
+被动语气的使用方法为：**be + 动词的done变形**
+
 
 ### 3.5 情态助动词
 
 ### 3.6 助动词的组合
 
-我们复习下这3种助动词的使用：
+到这里我们就学完了3种类型助动词的使用，我们复习下：
+
+情态助动词：He *must* repair the car.
 
 普通助动词：He **has** repaired the car.
 
 被动助动词：The car `is` repaired by him.
 
-情态助动词：He *must* repair the car.
+怎么样，是不是感觉助动词有点复杂？别急，我这还有个坏消息要告诉你：助动词是可以组合的！
 
-怎么样，是不是感觉助动词有点复杂？别急，我这还有个坏消息要告诉你，助动词是可以组合的！
+情态助动词+普通助动词：He *must* **have** repaired the car.
+
+情态助动词+被动助动词：The car *must* `be` repaired by him.
 
 普通助动词+被动助动词：The car **has** `been` repaired by him.
 
-普通助动词+情态助动词：He *must* **have** repaired the car.
-
-被动助动词+情态助动词：The car *must* `be` repaired by him.
-
-普通助动词+被动助动词+情态助动词：The car *must* **have** `been` repaired by him.
+情态助动词+普通助动词+被动助动词：The car *must* **have** `been` repaired by him.
 
 懵逼了吧，其实我也很懵逼啊。所以我们还是用学时态的方法，重点记住3种基本类型助动词各自的用法，用到的时候再自己组合。
 
-如果看到很复杂的助动词，要反应过来这有可能是个组合助动词。
+组合顺序是固定的，情态助动词 + 普通助动词 + 被动助动词，就算读着别扭也不可省略任何一个助动词。比如
+
+The car *is about to* **be** `be` repairing by him.
+
+is about to是情态助动词，
+第一个be是普通助动词
+第二个be是被动助动词
 
 ### 3.7 继续说谓语动词
+
+谓语动词=时间+状态，时间用助动词表示，状态用动词变形表示，那我们现在应该会谓语动词了。
+
+没那么简单，谓语动词的时间和状态之间，是可以插入修饰语的。
 
 
 ## 三、复合句
@@ -545,13 +557,13 @@ He had repaired his car，状态是完成，做完了。时间是过去，当前
 
 为啥？巧妇难为无米之炊，词汇量不够。一个句子只认识am is are，能看懂才怪咧。
 
-可惜词汇量这玩意儿是慢功夫，我也没什么外挂可以让你立即变得无敌。
+可惜词汇量这玩意儿是慢功夫，我也没什么外挂可以让你立即脱胎换骨。
 
 当然技巧是有的，只不过有些人觉得相见恨晚，有些人觉得多此一举。
 
 我都放在这里了，都是些老生常谈的东西，能不能帮你突破就看造化了。
 
-构词法与读法
+构词法
 
 先背动词
 
@@ -591,10 +603,4 @@ He had repaired his car，状态是完成，做完了。时间是过去，当前
 
 【APP】【高伟东】[词根词缀字典](http://www.dicts.cn/)
 
-| | 过去时间 | 现在时间 | 将来时间 | 过去将来时间 |
-| --- | --- | --- | --- | --- |
-| 不定态 | *was* **to do** | *is* **to do** | *will be* **to do** | *would be* **to do** |
-| 进行态 | *was* **doing** | *is* **doing** | *will be* **doing** | *would be* **doing** |
-| 完成态 | *had* **done** | *has* **done** | *will have* **done** | *would have* **done** |
-| 完成进行态 | *had* **been doing** | *has* **been doing** | *will have* **been doing** | *would have* **been doing** |
-| 一般态 | *did* **do** | *does* **do** | *will* **do** | *would* **do** |
+【网站】https://english.stackexchange.com/
