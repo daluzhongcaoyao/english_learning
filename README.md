@@ -377,21 +377,16 @@ Eatten breakfast, he went home. (吃完早饭后，他回家)
 
 到这里我们就学完了3种类型助动词的使用，我们复习下：
 
-- 情态助动词：He *must* repair the car.
-
-- 普通助动词：He **has** repaired the car.
-
-- 被动助动词：The car `is` repaired by him.
+情态助动词：He *must* repair the car.  
+普通助动词：He **has** repaired the car.  
+被动助动词：The car `is` repaired by him.  
 
 怎么样，是不是感觉助动词有点复杂？别急，我这还有个坏消息要告诉你：助动词是可以组合的！
 
-- 情态助动词+普通助动词：He *must* **have** repaired the car.
-
-- 情态助动词+被动助动词：The car *must* `be` repaired by him.
-
-- 普通助动词+被动助动词：The car **has** `been` repaired by him.
-
-- 情态助动词+普通助动词+被动助动词：The car *must* **have** `been` repaired by him.
+情态助动词+普通助动词：He *must* **have** repaired the car.  
+情态助动词+被动助动词：The car *must* `be` repaired by him.  
+普通助动词+被动助动词：The car **has** `been` repaired by him.  
+情态助动词+普通助动词+被动助动词：The car *must* **have** `been` repaired by him.  
 
 懵逼了吧，其实我也很懵逼啊。所以我们还是用学时态的方法，重点记住3种基本类型助动词各自的用法，用到的时候再自己组合。
 
