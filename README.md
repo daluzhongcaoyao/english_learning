@@ -377,21 +377,21 @@ Eatten breakfast, he went home. (吃完早饭后，他回家)
 
 到这里我们就学完了3种类型助动词的使用，我们复习下：
 
-情态助动词：He *must* repair the car.
+- 情态助动词：He *must* repair the car.
 
-普通助动词：He **has** repaired the car.
+- 普通助动词：He **has** repaired the car.
 
-被动助动词：The car `is` repaired by him.
+- 被动助动词：The car `is` repaired by him.
 
 怎么样，是不是感觉助动词有点复杂？别急，我这还有个坏消息要告诉你：助动词是可以组合的！
 
-情态助动词+普通助动词：He *must* **have** repaired the car.
+- 情态助动词+普通助动词：He *must* **have** repaired the car.
 
-情态助动词+被动助动词：The car *must* `be` repaired by him.
+- 情态助动词+被动助动词：The car *must* `be` repaired by him.
 
-普通助动词+被动助动词：The car **has** `been` repaired by him.
+- 普通助动词+被动助动词：The car **has** `been` repaired by him.
 
-情态助动词+普通助动词+被动助动词：The car *must* **have** `been` repaired by him.
+- 情态助动词+普通助动词+被动助动词：The car *must* **have** `been` repaired by him.
 
 懵逼了吧，其实我也很懵逼啊。所以我们还是用学时态的方法，重点记住3种基本类型助动词各自的用法，用到的时候再自己组合。
 
@@ -399,9 +399,9 @@ Eatten breakfast, he went home. (吃完早饭后，他回家)
 The car *must* **be** `being` repaired by him. (这辆车**现在** *一定* **正在** `被`他维修)
 
 *must*是情态助动词  
-第一个**be**是普通助动词，原本应该是is repairing，表示现在进行时。但是is放在情态动词后面，改成原形。  
-第二个`being`是被动助动词，原本应该是be，但是跟在现在进行时助动词后面，改成doing形。(把repairing的ing抢走了)  
-repaired，原本应该是和第一个be组成is repairing，表示现在进行时。但是放在被动助动词后面，改成done形。  
+> 第一个**be**是普通助动词，原本应该是is repairing，表示现在进行时。但是is放在情态动词后面，改成原形。  
+> 第二个`being`是被动助动词，原本应该是be，但是跟在现在进行时助动词后面，改成doing形。(把repairing的ing抢走了)  
+> repaired，原本应该是和第一个be组成is repairing，表示现在进行时。但是放在被动助动词后面，改成done形。  
 
 这句话有**be**和`being`，均为助动词且有各自含义，不能省略。
 
