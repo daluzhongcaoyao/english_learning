@@ -393,7 +393,7 @@ Eatten breakfast, he went home. (吃完早饭后，他回家)
 组合顺序是固定的，情态助动词 + 普通助动词 + 被动助动词，就算读着别扭也不可省略任何一个助动词。比如  
 The car *must* **be** `being` repaired by him. (这辆车**现在** *一定* **正在** `被`他维修)
 
-*must*是情态助动词  
+> *must*是情态助动词  
 > 第一个**be**是普通助动词，原本应该是is repairing，表示现在进行时。但是is放在情态动词后面，改成原形。  
 > 第二个`being`是被动助动词，原本应该是be，但是跟在现在进行时助动词后面，改成doing形。(把repairing的ing抢走了)  
 > repaired，原本应该是和第一个be组成is repairing，表示现在进行时。但是放在被动助动词后面，改成done形。  
